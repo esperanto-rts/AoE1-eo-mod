@@ -1,7 +1,8 @@
 # AoE1 Esperanto mod
 Nuna versio: 0.8
 
-Esperanto voices for Age of Empires 1
+Esperanto voices for Age of Empires 1 
+
 Esperantaj voĉoj por Age of Empires 1
 
 ## How to use
