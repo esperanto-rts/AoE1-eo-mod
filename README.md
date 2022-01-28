@@ -1,9 +1,7 @@
 # AoE1 Esperanto mod
 Nuna versio: 0.8
 
-Esperanto voices for Age of Empires 1 - Esperantaj voĉoj por Age of Empires 1
-
-## How to use
+Esperanto voices for Age of Empires 1 based on the [esperanto RTS audio biblioteko](https://github.com/esperanto-rts/esperanto-rts-audio-biblioteko)
 
 1. Download mod_sonoj.zip and extract it
 2. Make a backup of the folder Assets/Sounds inside of the AoE installation folder
