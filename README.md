@@ -6,7 +6,7 @@ Esperanto voices for Age of Empires 1 based on the [esperanto RTS audio bibliote
 1. Download mod_sonoj.zip and extract it
 2. Make a backup of the folder Assets/Sounds inside of the AoE installation folder
 3. copy and replace all .wav files into Assets/Sounds/
-5. Enyoj
+5. Enjoy
 
 ## Kiel uzi
 
