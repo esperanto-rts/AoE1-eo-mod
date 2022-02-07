@@ -17,7 +17,7 @@ Esperanto voices for Age of Empires 1 based on the [esperanto RTS audio bibliote
 
 
 ## Versio 0.9
-* Patroj nun konvertas per "Lernu Esperanto"
+* Pastroj nun konvertas per "Lernu Esperanto"
 * Maristoj nun havas malsimilaj voĉoj por malsimilaj boatoj
 * rajdistoj nun iomete parolas
 * resanigi homojn ankoraŭ ne funkcias malgraŭ la dosieroj estas ŝanĝitaj
