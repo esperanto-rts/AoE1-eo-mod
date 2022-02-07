@@ -1,5 +1,5 @@
 # AoE1 Esperanto mod
-Nuna versio: 0.8
+Nuna versio: 0.9
 
 Esperanto voices for Age of Empires 1 based on the [esperanto RTS audio biblioteko](https://github.com/esperanto-rts/esperanto-rts-audio-biblioteko)
 
@@ -15,6 +15,12 @@ Esperanto voices for Age of Empires 1 based on the [esperanto RTS audio bibliote
 3. kopiu kaj anstataŭu ĉiuj .wav-dosierojn en Assets/Sounds/ kun la esperantaj voĉoj
 5. Ĝuu la rezulton
 
+
+## Versio 0.9
+* Patroj nun konvertas per "Lernu Esperanto"
+* Maristoj nun havas malsimilaj voĉoj por malsimilaj boatoj
+* rajdistoj nun iomete parolas
+* resanigi homojn ankoraŭ ne funkcias malgraŭ la dosieroj estas ŝanĝitaj
 
 ## Versio 0.8
 * Voĉoj por kampuloj, soldatoj, maristoj kaj pastroj
