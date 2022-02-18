@@ -1,5 +1,7 @@
 # AoE1 Esperanto mod
 Nuna versio: 0.9
+Voĉaktoro: bronxio
+[YouTube](https://www.youtube.com/watch?v=1LUg9-5U2Vs)
 
 Esperanto voices for Age of Empires 1 based on the [esperanto RTS audio biblioteko](https://github.com/esperanto-rts/esperanto-rts-audio-biblioteko)
 
