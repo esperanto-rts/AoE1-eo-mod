@@ -5,6 +5,7 @@ Voĉaktoro: bronxio<br />
 
 Esperanto voices for Age of Empires 1 based on the [esperanto RTS audio biblioteko](https://github.com/esperanto-rts/esperanto-rts-audio-biblioteko)
 
+## How to use
 1. Download mod_sonoj.zip and extract it
 2. Make a backup of the folder Assets/Sounds inside of the AoE installation folder
 3. copy and replace all .wav files into Assets/Sounds/
